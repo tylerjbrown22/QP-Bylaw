@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<nan:bylaw
+	xmlns:nan="http://www.nanaimo.ca/2015/bylaw/nan" 
+	xmlns:byl="http://www.gov.bc.ca/2015/bylaw" 
+	xmlns:bcl="http://www.gov.bc.ca/2013/bclegislation"
+	xmlns:in="http://www.qp.gov.bc.ca/2013/inline" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+	xmlns:amd="http://www.gov.bc.ca/2017/amendment"> 
+
+	<byl:bylawno>BYLAW NO. 1757</byl:bylawno>
+	<byl:longtitle xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/TR/html4/"
+		xmlns:civix="http://www.qp.gov.bc.ca/2013/civix">A BYLAW TO DELEGATE THE POWER TO ISSUE
+		CERTAIN PERMITS UNDER PART 14 OF THE <in:link
+			xlink:href="http://www.bclaws.ca/civix/document/id/complete/statreg/r15001_00_multi"
+			xlink:type="locator">Local Government Act</in:link></byl:longtitle>
+	
+	<byl:content>
+		<byl:preamble>
+			<byl:preambletext>WHEREAS under section 229(1) of the Local Government Act, the Board may, by
+				bylaw, delegate its powers, duties and functions, including those specifically
+				established by an enactment, to an officer or employee;</byl:preambletext>
+			<byl:preambletext>WHEREAS the Board of the Regional District of Nanaimo wishes to delegate to the
+				General Manager of Strategic and Community Development the power under section 490
+				of the Local Government Act to issue development permits;</byl:preambletext>
+			<byl:preambletext>THEREFORE the Council of the City of Nanaimo, in open meeting assembled, hereby
+				ENACTS AS FOLLOWS: the Regional Board of the Regional District of Nanaimo in open
+				meeting assembled, enacts as follows:</byl:preambletext>
+		</byl:preamble>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix"
+			id="z90bb6b62b96bf6">
+			<bcl:marginalnote>CITATION</bcl:marginalnote>
+			<bcl:num>1</bcl:num>
+			<bcl:text>This bylaw may be cited for all purposes as the “Regional District of Nanaimo
+				Delegation of Authority Bylaw No. 1757, 2017”.</bcl:text>
+		</bcl:section>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/TR/html4/"
+			xmlns:civix="http://www.qp.gov.bc.ca/2013/civix" id="z45278d9a44a571" type="definition">
+			<bcl:marginalnote>DEFINITIONS</bcl:marginalnote>
+			<bcl:num>2</bcl:num>
+			<bcl:text>In this bylaw, unless the context otherwise requires:</bcl:text>
+			<bcl:definition id="z03aa2f2143436b">
+				<bcl:text><in:term>Act</in:term></bcl:text>
+				<bcl:text>means the <in:link
+						xlink:href="http://www.bclaws.ca/civix/document/id/complete/statreg/r15001_00_multi"
+						xlink:type="locator">Local Government Act</in:link>;</bcl:text>
+			</bcl:definition>
+			<bcl:definition id="zc22243039d55ee">
+				<bcl:text><in:term>Applicant</in:term></bcl:text>
+				<bcl:text> means an applicant for a development permit or a temporary use permit;
+				</bcl:text>
+			</bcl:definition>
+			<bcl:definition id="z2bdfc389486e33">
+				<bcl:text><in:term>Board</in:term></bcl:text>
+				<bcl:text>means the Board of the Regional District of Nanaimo;</bcl:text>
+			</bcl:definition>
+			<bcl:definition id="z7c04bd0828d574">
+				<bcl:text><in:term>Manager</in:term></bcl:text>
+				<bcl:text>means the General Manager, Strategic &amp; Community Development or a
+					Deputy, or other person appointed to act in his or her absence.</bcl:text>
+			</bcl:definition>
+		</bcl:section>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix"
+			id="z2ba5ac1ba14fb6"/>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix"
+			id="zd8587e062f4a3b">
+			<bcl:marginalnote>DELEGATION INCLUDES DEPUTY</bcl:marginalnote>
+			<bcl:num>3</bcl:num>
+			<bcl:text>A delegation of a power, duty or function under this bylaw includes a
+				delegation to a person who is from time to time the Deputy of the delegate, or to a
+				person who is appointed from time to time to act in place of the delegate.
+			</bcl:text>
+		</bcl:section>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix"
+			id="zfed98f51e2328f">
+			<bcl:marginalnote>DELEGATION OF AUTHORITY - DEVELOPMENT PERMITS</bcl:marginalnote>
+			<bcl:num/>
+			<bcl:text>Except for the matters referred to in section 5 of this bylaw, the Board
+				hereby delegates to the Manager the power to issue a development permit under
+				section 490 of the <in:link
+					xlink:href="http://www.bclaws.ca/civix/document/id/complete/statreg/r15001_00_multi"
+					xlink:type="locator"><in:doc>Act</in:doc></in:link>.</bcl:text>
+		</bcl:section>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix"
+			id="zcad44d849b89a0">
+			<bcl:marginalnote>EXCEPTIONS TO MANAGER'S DELEGATED AUTHORITY</bcl:marginalnote>
+			<bcl:num/>
+			<bcl:text>The delegation under section 4 of this Bylaw does not include authority to
+				issue a development permit in relation to the following circumstances: </bcl:text>
+		</bcl:section>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix">
+			<bcl:subsection id="z8c7708633165a4">
+				<bcl:num/>
+				<bcl:text>development permits within a Development Permit Area that includes a
+					designation under one or both of sections 488(1)(e) and (f) of the Act,
+					establishment of objectives for the form and character of intensive residential
+					development, or for the form and character of multi-family residential
+					development, where the Applicant has requested a development permit for a
+					building, or buildings, with a combined floor area greater than 600 square
+					metres; </bcl:text>
+			</bcl:subsection>
+			<bcl:subsection id="z7f3ca73ef62836">
+				<bcl:num/>
+				<bcl:text>development permits within a Development Permit Area that includes a
+					designation under section 488(1)(f) of the Act, establishment of objectives for
+					the form and character of commercial or industrial development, where the
+					Applicant has requested a development permit for a building, or buildings, with
+					a combined floor area greater than 4,500 square metres;</bcl:text>
+			</bcl:subsection>
+			<bcl:subsection id="z4ccda5c3503c1d">
+				<bcl:num/>
+				<bcl:text>development permits within a Development Permit Area where a rezoning has
+					been applied for concurrently with the development permit
+					application.</bcl:text>
+			</bcl:subsection>
+			<bcl:subsection id="zcf3b061a892249"/>
+		</bcl:section>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix"
+			id="zbd844b49208628">
+			<bcl:marginalnote>SECURITY</bcl:marginalnote>
+			<bcl:num/>
+			<bcl:text>The amount of security to be provided in connection with a development permit
+				under section 502 of the Local Government Act shall be: </bcl:text>
+		</bcl:section>
+		<bcl:section xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix">
+			<bcl:subsection id="z5e1d56fcec34c6">
+				<bcl:num/>
+			</bcl:subsection>
+			<bcl:subsection id="z40a4a8b86663ba">
+				<bcl:num>as provided for under Part 5 of “Regional District of Nanaimo Land Use and
+					Subdivision Bylaw No. 500, 1987”, as amended or replaced from time to time;
+				</bcl:num>
+			</bcl:subsection>
+			<bcl:subsection id="zc5bd1126246068">
+				<bcl:num/>
+				<bcl:text>where the applicable Development Permit Area guidelines contain
+					requirements for security that are additional to those under sub-section (a), in
+					accordance with the applicable guidelines; or</bcl:text>
+			</bcl:subsection>
+			<bcl:subsection id="z9df3353f4e9079">
+				<bcl:num/>
+				<bcl:text>in cases not provided for under sub-sections (a) or (b), in an amount
+					equal to the cost of site restoration, habitat restoration or improvements
+					including materials and installation as determined by a professional landscape
+					architect, a nurseryperson, a landscape contractor, or a habitat
+					biologist.</bcl:text>
+			</bcl:subsection>
+		</bcl:section>
+		<byl:approvals xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix">
+			<byl:approval>
+				<byl:text>PASSED FIRST READING</byl:text>
+				<byl:approvaldate>
+					<byl:month/>
+					<byl:day/>
+					<byl:year/>
+				</byl:approvaldate>
+			</byl:approval>
+			<byl:approval>
+				<byl:text>PASSED SECOND READING</byl:text>
+				<byl:approvaldate>
+					<byl:month/>
+					<byl:day/>
+					<byl:year/>
+				</byl:approvaldate>
+			</byl:approval>
+			<byl:approval>
+				<byl:text>PASSED THIRD READING</byl:text>
+				<byl:approvaldate>
+					<byl:month/>
+					<byl:day/>
+					<byl:year/>
+				</byl:approvaldate>
+			</byl:approval>
+			<byl:approval>
+				<byl:text>ADOPTED</byl:text>
+				<byl:approvaldate>
+					<byl:month/>
+					<byl:day/>
+					<byl:year/>
+				</byl:approvaldate>
+			</byl:approval>
+		</byl:approvals>
+		<byl:signatureblock xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns:h="http://www.w3.org/TR/html4/" xmlns:civix="http://www.qp.gov.bc.ca/2013/civix">
+			<byl:signature>
+				<byl:name/>
+				<byl:position/>
+			</byl:signature>
+			<byl:signature>
+				<byl:name/>
+				<byl:position/>
+			</byl:signature>
+		</byl:signatureblock>
+		
+	</byl:content>
+</nan:bylaw>
